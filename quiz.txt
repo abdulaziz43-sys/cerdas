@@ -1,0 +1,19 @@
+html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Kuis</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="kuis-container">
+    <h2 id="pertanyaan"></h2>
+    <ul id="pilihan"></ul>
+    <p id="kategori"></p>
+    <button onclick="nextSoal()">Soal Berikutnya</button>
+  </div>
+  <script src="soal.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

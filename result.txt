@@ -1,0 +1,14 @@
+html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Hasil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hasil Kuis</h1>
+  <p id="skor"></p>
+  <a href="index.html">Kembali ke Beranda</a>
+</body>
+</html>
